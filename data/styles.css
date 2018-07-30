@@ -98,6 +98,8 @@
 }
 .table_cell {
 }
+.menu_item {
+}
 .checkbox {
   text-align:left;
 }
@@ -111,6 +113,9 @@
 .button {
 }
 .radio_button {
+  text-align:left;
+}
+.tree_node {
   text-align:left;
 }
 .shape {
